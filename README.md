@@ -1,6 +1,6 @@
 <h1><p align="center">Hello, I'm Jayasankar J P! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<p align="center"><b>I'm a student developer.</b><br/>I <b>specialize</b> in <b>Arduino</b> and <b>Flutter.</b><br><br> <i>Loves to learn new technologies and play around with building stuff and invent solutions to real-life problems.</i><br></p><br/>
+<p align="center"><b>I'm a student developer.</b><br/>I <b>specialize</b> in <b>Arduino</b>.</b><br><br> <i>Loves to learn new technologies and play around with building stuff and invent solutions to real-life problems.</i><br></p><br/>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Let's Talk Personal</h2></summary>
@@ -15,8 +15,9 @@
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" align="center"
                 width="28" /> My Tech Stack</h2> </summary>
+<p>
 
-![arduino](https://seeklogo.com/images/A/arduino-logo-5B8F98793E-seeklogo.com.png)&nbsp;         
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp; 
 ![C](https://img.shields.io/badge/C-00599C?flat&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)&nbsp;
@@ -27,6 +28,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+</p>
 <br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
