@@ -17,12 +17,12 @@
                 width="28" /> My Tech Stack</h2> </summary>
 <p>
 
-![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp; 
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)&nbsp; 
 ![C](https://img.shields.io/badge/C-00599C?flat&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?flat&logo=java&logoColor=white)&nbsp;
-![Nextion]( https://img.shields.io/badge/Nextion-add8e6?style=for-the-badge&logo=nextion&logoColor=white)&nbsp;
+![Nextion](https://img.shields.io/badge/Nextion-00599C?style=flat&logo=nextion&logoColor=white)&nbsp;
   <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?flat&logo=css3&logoColor=white)&nbsp;
