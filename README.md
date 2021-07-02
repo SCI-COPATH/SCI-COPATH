@@ -15,7 +15,8 @@
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" align="center"
                 width="28" /> My Tech Stack</h2> </summary>
-          
+
+![arduino](https://seeklogo.com/images/A/arduino-logo-5B8F98793E-seeklogo.com.png)&nbsp;         
 ![C](https://img.shields.io/badge/C-00599C?flat&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)&nbsp;
@@ -39,7 +40,7 @@
 [<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="bilgehangecici | Whatsapp" height="30px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />][whatsapp]
 </p>
-
+<br>
 
 <summary><h2>⚙️ &nbsp;GitHub Analytics</h2></summary>
 
