@@ -15,8 +15,7 @@
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" align="center"
                 width="28" /> My Tech Stack</h2> </summary>
-
-![Arduino](https://img.shields.io/badge/C-00599C?flat&logo=c&logoColor=white)&nbsp;          
+          
 ![C](https://img.shields.io/badge/C-00599C?flat&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)&nbsp;
@@ -41,11 +40,12 @@
 [<img align="left" alt="bilgehangecici | Whatsapp" height="30px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />][whatsapp]
 </p>
 
+
 <summary><h2>⚙️ &nbsp;GitHub Analytics</h2></summary>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sci-copathshow_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sci-copath&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sci-copath&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
