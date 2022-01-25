@@ -32,6 +32,24 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 </p>
 <br>
+<p align="center">
+    <a href="https://github.com/sci-copath/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayasanakr streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sci-copath&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<br>
+
+<summary><h2>⚙️ &nbsp;GitHub Analytics</h2></summary>
+
+<p align="center">
+<br/>
+    <a href="https://github.com/sci-copath/github-readme-stats"><img alt="Jayasankar Github Stats" src="https://github-readme-stats.vercel.app/api?username=sci-copath&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sci-copath/github-readme-stats"><img alt="Jayasankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sci-copath&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> Connect with me</h2></summary>
 
@@ -44,18 +62,17 @@
 [<img align="left" alt="bilgehangecici | Whatsapp" height="30px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />][whatsapp]
 </p>
 <br>
-<summary><h2>⚙️ &nbsp;GitHub Analytics</h2></summary>
 
-<p align="center">
-<a href="https://github.com/AVS1508">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sci-copath&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sci-copath&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
+
 
 [mail]:mailto:scicopath01@gmail.com  
 [instagram]: https://www.instagram.com/scicopath_official/
 [linkedin]: https://www.linkedin.com/in/jayasankar-jp-9991291a3/
 [whatsapp]: https://api.whatsapp.com/message/DHBM4B7A5YDHO1
 [Youtube]:https://www.youtube.com/scicopath  
+
+
+ 
+
 
