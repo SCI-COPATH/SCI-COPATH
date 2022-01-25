@@ -39,8 +39,8 @@
   
 [<img align="left" alt="bilgehangecici | Youtube" height="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][Youtube]
 [<img align="left" alt="bilgehangecici | Mail" height="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />][mail]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="bilgehangecici | Whatsapp" height="30px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />][whatsapp]
 </p>
 <br>
@@ -58,3 +58,4 @@
 [linkedin]: https://www.linkedin.com/in/jayasankar-jp-9991291a3/
 [whatsapp]: https://api.whatsapp.com/message/DHBM4B7A5YDHO1
 [Youtube]:https://www.youtube.com/scicopath  
+
