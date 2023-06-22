@@ -54,11 +54,11 @@
 
 <p align = "center">
   
-[<img align="left" alt="bilgehangecici | Youtube" height="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][Youtube]
-[<img align="left" alt="bilgehangecici | Mail" height="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />][mail]
+[<img align="left" alt="bilgehangecici | Youtube" height="30px" src="https://img.icons8.com/fluent/48/000000/youtube.png" />][Youtube]
+[<img align="left" alt="bilgehangecici | Mail" height="30px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][mail]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="bilgehangecici | Whatsapp" height="30px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />][whatsapp]
+[<img align="left" alt="bilgehangecici | Whatsapp" height="30px" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" />][whatsapp]
 </p>
 <br>
 
