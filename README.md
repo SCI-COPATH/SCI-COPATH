@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on IOT project.
 - 💬 Ask me about Arduino,Any tech-related stuff.
 - ⚡ Fun fact: I 💖 Memes.
+- portfolio: https://sci-copath.github.io/portfolio/
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" align="center"
                 width="28" /> My Tech Stack</h2> </summary>
